@@ -18,6 +18,6 @@ The Hukumnama refers to a hymn from a randomly selected left-hand side page from
 
 ## Features:
 
-1. Option of reading the larivaar.
+1. Option to reading in larivaar mode.
 1. Translation of hukamnama in both English and Punjabi is available. English Transliteration is also shown. These can be enabled or disabled in preferences.
 1. Adjust speed according to need.
